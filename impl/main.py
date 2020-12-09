@@ -16,17 +16,6 @@ from skill_sdk import skill, Response, ask, tell
 from skill_sdk.l10n import _
 
 
-@skill.intent_handler("TEAM_24_CALL")
-def team_24_call_handler(username: str) -> Response:
-    """ TEAM_24_CALL handler
-        
-    :param username: str
-    :return:
-    """
-    response = Response(_("NOT_IMPLEMENTED", intent="TEAM_24_CALL"))
-    return response
-
-
 @skill.intent_handler("TEAM_24_SCHEDULE_MEETING")
 def team_24_schedule_meeting_handler(usernames: str, time: str) -> Response:
     """ TEAM_24_SCHEDULE_MEETING handler
