@@ -1,12 +1,8 @@
 skill-sdk
-html2text~=2020.1.16
-O365~=2.0.13
-python-dateutil~=2.8.1
-atlassian-python-api~=2.1.2
-summarizer~=0.0.7
-transformers~=4.0.0
-transformers
+html2text
+O365
+python-dateutil
+atlassian-python-api
 torch
 bert-extractive-summarizer
-numpy~=1.19.4
-phonetics~=1.0.5
+phonetics
