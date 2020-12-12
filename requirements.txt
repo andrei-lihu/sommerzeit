@@ -1,0 +1,8 @@
+skill-sdk
+html2text
+O365
+python-dateutil
+atlassian-python-api
+torch
+bert-extractive-summarizer
+phonetics

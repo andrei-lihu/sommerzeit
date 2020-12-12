@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+
+
+msgid "NOT_IMPLEMENTED"
+msgstr "{intent} is not yet implemented. Stay tuned!"
+
+msgid "NONE"
+msgstr "no"
+
+msgid "AND"
+msgstr "and"
+
+msgid "MY_DAY"
+msgstr "Good morning, {nickname}! Here is an overview of your day. You have {meetings_count} meetings and you currently work on {tasks_count} tasks."
+
+msgid "MY_MEETINGS_INTRO"
+msgstr "Your meetings are scheduled as follows: "
+
+msgid "AT"
+msgstr "at"
+
+msgid "MY_TASKS_INTRO"
+msgstr "Your tasks in progress: "
+
+msgid "PROJECT_STATUS_INTRO"
+msgstr "We have {urgent_tasks} urgent tasks and {overdue_tasks} overdue tasks."
+
+msgid "IS"
+msgstr "is"
+
+msgid "ARE"
+msgstr "are"
+
+msgid "IDLE_USERS"
+msgstr "At the moment, {users} {verb} idle."
+
+msgid "SPRINT_STATUS"
+msgstr "In the current sprint of the project {project}, there are {todos} tasks in the To-Do list, {inprogress} are in progress and {done} are done."
+
+msgid "ASSIGNED"
+msgstr "  ist folgenden Aufgaben zugeordnet: "
+
+msgid "OVERDUE_TASK"
+msgstr "task {task}, which was due {days} days ago"
+
+msgid "NO_OVERDUE_TASKS"
+msgstr "At this moment, there are no overdue tasks."
+
+msgid "URGENT_TASKS_INTRO"
+msgstr "Here are the urgent tasks: "
+
+msgid "URGENT_TASK"
+msgstr "{task}, which is assigned to {user}"
+
+msgid "NO_URGENT_TASKS"
+msgstr "At this moment, there are no urgent tasks."
+
+msgid "DONE_TASKS_INTRO"
+msgstr "Done tasks so far: "
+
+msgid "NO_DONE_TASKS"
+msgstr "There are no tasks completed today so far by your team."
+
+msgid "NO_EMAILS"
+msgstr "No email received so far."
+
+msgid "EMAILS"
+msgstr "You received emails with the following titles: {titles}."
+
+msgid "IMPORTANT_EMAILS"
+msgstr "Important emails: {content}"
+
+msgid "FROM"
+msgstr "from"
+
+msgid "TO"
+msgstr "to"
+
+msgid "WITH_SUBJECT"
+msgstr "with the title"
+
+msgid "NEW_TASK"
+msgstr "Added task with name {taskname} to the project's backlog."
+
+msgid "ASSIGN_TASK"
+msgstr "Assigned task to {username}."
+
+msgid "EMPTY_PROJECT"
+msgstr "There are no tasks in the project. Please create at least one task to be able to assign to it."
+
+msgid "CANNOT_UNDERSTAND"
+msgstr "I did not understand. Can you please repeat?"
+
+msgid "NO_BACKLOG"
+msgstr "At this moment, there are no tasks in the backlog."
+
+msgid "RECOMMENDER_INTRO"
+msgstr "Here is the suggested allocation for the remaining backlog items: "
+
+msgid "RECOMMENDER_SG"
+msgstr "We can assign task {tasks} "
+
+msgid "RECOMMENDER_PL"
+msgstr "We can assign tasks {tasks} "
+
+msgid "BACKLOG_INTRO"
+msgstr "These are the tasks in your backlog: "
+
+msgid "COWORKER_STATUS"
+msgstr "{username} has {todos} tasks in the To-Do list, {inprogress} are in progress and has completed {done} tasks."
+
+msgid "COWORKER_INPROGRESS"
+msgstr "{username} currently works on the tasks: {tasks}."
+
+msgid "COWORKER_URGENT"
+msgstr "Your co-worker has the following urgent tasks: {tasks}."
+
+msgid "COWORKER_OVERDUE"
+msgstr "{username} has the following overdue tasks: "
+
+msgid "COWORKER_IDLE"
+msgstr "At this moment, your colleague is idle."
+
+msgid "COWORKER_EMPTY"
+msgstr "At this moment, your colleague has no tasks assigned."
